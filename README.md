@@ -1,6 +1,6 @@
-# hello Microverse
+# Hello Microverse
 
-> Set up linters for hello microverse project
+> Set up linters and github flow for hello microverse project
 
 ## Built With
 
